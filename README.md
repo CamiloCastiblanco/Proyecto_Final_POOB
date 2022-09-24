@@ -15,6 +15,7 @@
 ------------
 
 ##### Git Fork y Git Clone
+
 ![Image text](https://github.com/CamiloCastiblanco/Proyecto_Final_POOB/blob/main/img/GitFork.png)
 
 ![Image text](https://github.com/CamiloCastiblanco/Proyecto_Final_POOB/blob/main/img/GitClone.png)
@@ -23,18 +24,23 @@
 
 
 ##### Errores en el código (SOLID)
+
 - S, Single responsibility principle
  
 ![Image text](https://github.com/CamiloCastiblanco/Proyecto_Final_POOB/blob/main/img/Class%20Diagram0.png)
+
 **Error encontrado:**
 
 ![Image text](https://github.com/CamiloCastiblanco/Proyecto_Final_POOB/blob/main/img/ProblemaCodigo.png)
+
 **Solución:**
 
 ![Image text](https://github.com/CamiloCastiblanco/Proyecto_Final_POOB/blob/main/img/SolucionDiagrama.png)
+
 *Clase TetrisBlock*
 
 ![Image text](https://github.com/CamiloCastiblanco/Proyecto_Final_POOB/blob/main/img/SolucionCodigoBlock.png)
+
 *Clase IShape*
 
 ![Image text](https://github.com/CamiloCastiblanco/Proyecto_Final_POOB/blob/main/img/SolucionCodigoIShape.png)
@@ -45,12 +51,14 @@
 ##### Errores en los Tests (FIRST)
 
 - Errores en los tests:
+
 **Error en el setUp y After:**
 
 ![Image text](https://github.com/CamiloCastiblanco/Proyecto_Final_POOB/blob/main/img/CreacionInnecesaria.png)
 ![Image text](https://github.com/CamiloCastiblanco/Proyecto_Final_POOB/blob/main/img/After.png)
 
 - R, Repeatable
+
 **Error Encontrado:**
 
 ![Image text](https://github.com/CamiloCastiblanco/Proyecto_Final_POOB/blob/main/img/ErrorTest.png)
