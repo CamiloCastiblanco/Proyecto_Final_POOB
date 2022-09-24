@@ -8,12 +8,14 @@
 ##### ¿Qué debíamos hacer?
 - A partir del concepto básico del juego, se debía realizar un nuevo formato con algunas funcionalidades extras. Se debía poder escoger diferentes tipos de juego, como lo es el modo 2v2, solitario y contra una IA que tenía un modo fácil y otro difícil. Adicionalmente, habían unos nuevos objetos dentro del juego llamados "Buffos" que le permitían al jugador tener varias ayudas, como por ejemplo, duplicar sus puntos por cierto tiempo, congelar la ficha en el lugar, congelar el tiempo o hacer que el descenso de las fichas fuese mucho más lento por cierta cantidad de tiempo.
 ![Image text](https://github.com/CamiloCastiblanco/Proyecto_Final_POOB/blob/main/img/PoobTriz.png)
-![Image text] (https://github.com/CamiloCastiblanco/Proyecto_Final_POOB/blob/main/img/Tablero.png)
+
+![Image text](https://github.com/CamiloCastiblanco/Proyecto_Final_POOB/blob/main/img/Tablero.png)
 
 ------------
 
 ##### Git Fork y Git Clone
 ![Image text](https://github.com/CamiloCastiblanco/Proyecto_Final_POOB/blob/main/img/GitFork.png)
+
 ![Image text](https://github.com/CamiloCastiblanco/Proyecto_Final_POOB/blob/main/img/GitClone.png)
 
 ------------
